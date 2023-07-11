@@ -1,5 +1,6 @@
 <p align="center">
-
+  
+![image](https://github.com/ijoshua932/vpn-install-config/assets/139269375/8e603fd3-850a-4e87-b540-e73cc7c73e5a)
 </p>
 
 <h1>Virtual Private Networks - Install and Configuration</h1>
