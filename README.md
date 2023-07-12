@@ -16,7 +16,7 @@ This tutorial outlines the installation and configuration of a free-to-use virtu
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Install and Configuration Objectives</h2>
 
 - Open browser and go to www.protonvpn.com
 - Download and install VPN
