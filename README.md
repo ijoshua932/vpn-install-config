@@ -18,9 +18,8 @@ This tutorial outlines the installation and configuration of a free-to-use virtu
 
 <h2>Install and Configuration Objectives</h2>
 
-- Open browser and go to www.protonvpn.com
 - Download and install VPN
-- Create and account if you don't already have one
+- Create and account
 - Check your IP address
 - Open VPN and choose server
 
