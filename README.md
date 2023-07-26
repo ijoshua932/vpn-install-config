@@ -75,7 +75,7 @@ Here you can see my IP address and the available VPN servers. With the free vers
 ![image](https://github.com/ijoshua932/vpn-install-config/assets/139269375/8303f587-c7b9-41a8-a1e4-66e48c3d5be4)
 </p>
 <p>
-After connecting to a server in the Netherlands, you can see that my IP address has changed. You can also see the current capacity of the server and the upload and download speeds in kilobytes per second.
+After connecting to a server in the Netherlands, you can see that my IP address has changed. You can also see the current capacity of the server and the upload and download speeds.
 </p>
 <br />
 
