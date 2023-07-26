@@ -57,7 +57,7 @@ Once it's installed create an account, if you don't already have one. You might 
 ![image](https://github.com/ijoshua932/vpn-install-config/assets/139269375/99c86f38-f0e3-4a51-b9d3-43ade8aea36d)
 </p>
 <p>
-A good reference to find your IP address is www.whatismyipaddress.com if you don't know what it is. As seen here, I show my IPv4 address before connecting to a VPN server in the Netherlands.
+A good reference to find your IP address is www.whatismyipaddress.com if you don't know what it is. As seen here, I show my IPv4 address before connecting to the VPN server.
 </p>
 <br />
 
